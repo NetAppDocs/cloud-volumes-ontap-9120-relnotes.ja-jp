@@ -41,4 +41,4 @@ BlueXP  からボリュームを作成するときにStorage Efficiency機能�
 
 一部のリージョンでは HA ペアがサポートされません。
 
-https://cloud.netapp.com/cloud-volumes-global-regions["サポートされている Azure リージョンのリストを表示します"^]です。
+https://bluexp.netapp.com/cloud-volumes-global-regions["サポートされている Azure リージョンのリストを表示します"^]です。
